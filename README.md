@@ -22,7 +22,7 @@ Located in the `Part 1_notes` folder.
 Located in the `Part 2_modules` folder.
 *   **What's inside:** Instead of picking 3 unrelated modules, I combined them to create a fully functional terminal game: **The Math Quiz Game**.
 *   **The Modules:** 
-    *   `random` (to generate math problems so I don't have to type them manually),
+    *   `secrets` (to generate secure and unpredictable math problems so I don't have to type them manually),
     *   `time` (for the stopwatch and dramatic pauses), 
     *   `os` (to clear the screen and keep things looking clean).
 *   **LMS Integration:** This project heavily integrates the LMS lessons, specifically **Module 2 (If/Else), Module 5 (While Loops), and Module 7 (Lists)** for the game logic.
@@ -30,5 +30,5 @@ Located in the `Part 2_modules` folder.
 
 ---
 
-
+## 🚀 Final Words
 This project was a journey. It started with `print("Hello World")` and ended with a math game that judges your typing speed. I hope you enjoy checking out the code, sir, as much as I enjoyed debugging it XD
